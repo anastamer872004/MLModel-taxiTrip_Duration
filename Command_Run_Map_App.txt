@@ -1,0 +1,4 @@
+
+streamlit run d:/Code_ML/Project_TaxiTripDuration/Map_App.py
+   
+   
