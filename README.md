@@ -13,10 +13,10 @@
     - the accuracy became nearly ( 98 % ). 
 
 ## Third: i made ( Kaggle_TestData_Preparation.py ) : to prepare submission file to send it to kaggle for apply Testing Score  
-   - MY Score: ( 0.47672 ) ---> metric for this competition is Root Mean Squared Logarithmic Error ( RMSE ).
+   - MY Score: ( 0.47672 ) ---> metric for this competition is Root Mean Squared Logarithmic Error ( RMSE ) , i so proud for this.
 
 ## Final: i made ( Map_App ) --> this is Web contain Map (Preferably applied on :( NYC ) )
-   - Must write as similar this command ( streamlit run d:/Code_ML/Project_TaxiTripDuration/Map_App.py ) on the terminal to give you the Web .
+   - in the terminal --> Must write command (streamlit run path/Map_App.py) as similar this command ( streamlit run d:/Code_ML/Project_TaxiTripDuration/Map_App.py ) to give you the Web .
    - select ( Pickup ) and ( Dropoff ) on the Map , then click on ( Predictioin Duration ) --> then it will predict the Time Duration for the Distance .
 
  
