@@ -1,3 +1,3 @@
-i implement model on kaggle competition #( New York City Taxi Trip Duration ) 
+  #( New York City Taxi Trip Duration ) kaggle competition
 
 first: i made ## BaseLine_Model :
