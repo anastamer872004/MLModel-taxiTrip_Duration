@@ -7,10 +7,10 @@
   - the accuracy is nearly ( 70 % )
   
 ## Second: i made ( advancedModel ) , to Enhance the Berformance , so i used:
-    - ( XGBoost Regressor ) --> to inhance the model.
-    - in ( Feature Engineering ) --> i add new features to make strong crrelated realtion with the Target.
-    - i made deep ( Data Cleaning ).
-    - the accuracy became nearly ( 98 % ). 
+  - ( XGBoost Regressor ) --> to inhance the model.
+  - in ( Feature Engineering ) --> i add new features to make strong crrelated realtion with the Target.
+  - i made deep ( Data Cleaning ).
+  - the accuracy became nearly ( 98 % ). 
 
 ## Third: i made ( Kaggle_TestData_Preparation.py ) : to prepare submission file to send it to kaggle for apply Testing Score  
    - MY Score: ( 0.47672 ) ---> metric for this competition is Root Mean Squared Logarithmic Error ( RMSE ) , i so proud for this.
