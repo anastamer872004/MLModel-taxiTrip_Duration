@@ -1,4 +1,4 @@
-i will summarize my work on ( Regression ) project
+# ( Regression ) project
 
   # ( New York City Taxi Trip Duration ) : kaggle competition
  
